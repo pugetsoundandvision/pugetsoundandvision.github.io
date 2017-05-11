@@ -6,8 +6,8 @@
 </description>
     <link>pugetsoundandvision.github.io/</link>
     <atom:link href="pugetsoundandvision.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 11 May 2017 19:40:55 +0000</pubDate>
-    <lastBuildDate>Thu, 11 May 2017 19:40:55 +0000</lastBuildDate>
+    <pubDate>Thu, 11 May 2017 19:55:42 +0000</pubDate>
+    <lastBuildDate>Thu, 11 May 2017 19:55:42 +0000</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -20,7 +20,8 @@
 Tools for streamlining audio workflows. These tools take a WAV file and create an archival package with BWF metadata and the optional documentation of original item container.&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/amiaopensource/audiorecorder&quot;&gt;audiorecorder&lt;/a&gt; An archivally focused open source tool for analog audio calibration and digitization currently under development by pugetsoundandvision members.&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://www.audacityteam.org/&quot;&gt;Audacity&lt;/a&gt;  A free, open source DAW (Digital Audio Workstation) for recording and editing of audio.&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://tmkk.undo.jp/xld/index_e.html&quot;&gt;XLD CD Ripping and Audio Conversion Software&lt;/a&gt;  Supports error free ripping of audio cds as well as conversion between a variety of lossless audio formats.  Setup instructions for CD ripping can be found &lt;a href=&quot;http://wiki.hydrogenaud.io/index.php?title=XLD_Configuration#.22CD_Rip.22_tab&quot;&gt;here&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://tmkk.undo.jp/xld/index_e.html&quot;&gt;XLD CD Ripping and Audio Conversion Software&lt;/a&gt;  Supports error free ripping of audio cds as well as conversion between a variety of lossless audio formats.  For macOS. Setup instructions for CD ripping can be found &lt;a href=&quot;http://wiki.hydrogenaud.io/index.php?title=XLD_Configuration#.22CD_Rip.22_tab&quot;&gt;here&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.exactaudiocopy.de/&quot;&gt;Exact Audio Copy CD Ripping&lt;/a&gt; Another program that supports error free ripping of audio cds. For Microsoft Windows.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h3 id=&quot;documents&quot;&gt;Documents&lt;/h3&gt;
@@ -49,7 +50,6 @@ Tools for streamlining audio workflows. These tools take a WAV file and create a
   &lt;li&gt;&lt;a href=&quot;https://amiaopensource.github.io/ffmprovisr/&quot;&gt;ffmprovisr&lt;/a&gt; A tool that provides annotated examples for a variety of FFMPEG commands to accomplish common A/V preservation tasks! I very good starting point for people trying to understand FFMPEG. Created at AMIA Hack Day.&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/amiaopensource/cable-bible&quot;&gt;The Cable Bible&lt;/a&gt; A comprehensive guide to cables you might encounter in A/V preservation.  Maintained by MIAP’s Ethan Gates.&lt;/li&gt;
 &lt;/ul&gt;
-
 </description>
         <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
         <link>pugetsoundandvision.github.io/2017/05/01/Information-and-Resources.html</link>
